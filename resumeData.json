@@ -1,0 +1,265 @@
+{
+  "main": {
+    "name":"Aditya Tewari",
+    "description":"I am a data and computer scientist with experience in using a broad range of technologies as well as applying quantitative methods to develop innovative solutions",
+    "image":"profilepic.png",
+    "bio":"I am an incoming senior at the University of Michigan's College Of Engineering with plans to pursue a Masters in Applied Statistics through an accelerated program. I enjoy building software, leveraging ML and DL technologies, and creating full stack web solutions, especially when it involves large scale computing. I have 2+ years of relevant work experience in software and data science engineering through both internships and working as a contractor for a start up. I have a broad range of interests and can apply my skillset to a variety of industries including tech, manufacturing, consumer science, finance, healthcare, and etc.",
+    "bio2": "Outside of school, I love dancing, playing soccer, cooking, and playing the guitar. Click ",
+    "bio3" : " to see my dance team's latest performance!",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "adityate@umich.edu",
+    "phone": "513-807-4955",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Click each category for details",
+    "education":[
+      {
+        "school":"University of Michigan - College of Engineering",
+        "degree":"B.E. Data Science, B.E. Computer Science",
+        "graduated":"Dec 2020",
+        "description":"Relevant Coursework: Data Structures and Algorithms, Computer Organization, Operating Systems, Web Systems, Data Management Systems, Data Mining, Maching Learning, Computer Vision, Applied Linear Regression, Probablity and Statistics, Biostatistics, Differential Equations, Linear Algebra"
+      }
+    ],
+    "work":[
+      {
+        "company":"Nike",
+        "title":"Data Science Intern",
+        "years":"Jun 2020 - Present",
+        "description":"Working on the Digital Acitivtiy and Innovation Team. Visualizing clusters and applying quantiative methods to user journeys through the Nike Running Club and Nike Traning Club to determine features to revise. Responsible for all steps from data engineering to visualization.",
+        "technologies":"Spark, SQL, R, Python, D3.js, React.js"
+      },
+      {
+        "company":"University of Michigan - Department of Statistics",
+        "title":"Undergraduate Researcher",
+        "years":"Dec 2019 - Present",
+        "description":"Developing a new algorithm in C++ (old version used Fortran) for the open source R package, optmatch, which is maintained by the University of Michigan. Package will now include capabilities to perform minimum cost flow computations quicker and will be a part of a larger graph library for all R users. Please see more details in the projects section.",
+        "technologies":"R, RCpp, C++, Fortran"
+      },
+      {
+        "company":"Michigan Data Science Team",
+        "title":"Data Scientist",
+        "years":"Sep 2018 - Present",
+        "description":"Weekly team meetings and teaching new members how to perform data analysis with Pandas. This MDST work to provide data solutions with several orgs across the University including the Cardiology Clinic.",
+        "technologies": "Python"
+      },
+      {
+        "company":"Conscious Insights",
+        "title":"Data Science Consultant (Contractor)",
+        "years":"Jan 2020 - April 2020",
+        "description":"An AI start up in the healthcare space which provides insights to early stage companies. Worked on a project with AKili Interactive. Responsibilities included importing data, data wrangling, building predictive models, producing weekly reports, building KPI dashboards and communicating with stakeholders.",
+        "technologies": "PostgreSQL, Python, AWS"
+      },
+      {
+        "company":"Rockwell Automation",
+        "title":"Advanced Manufacturing Engineering Intern",
+        "years":"Jun 2019 - Dec 2019",
+        "description":"Developed an application to help factory managers assign employees to work stattions based on past data. Integrated a scalable machine learning model to predict line output based on current performance.",
+        "technologies": "JavaScript, SQL, ThingWorx, CSS"
+      },
+      {
+        "company":"GE Aviation",
+        "title":"Software Engineer Intern",
+        "years":"Jun 2017 - Aug 2017",
+        "description":"Developed Proof of Concept Models to securely transfer data from simple IoT devices, Arduino circuit boards, to the Predix Cloud. Secured with implementations of the OAuth2 and SAML security standards. Developed web server and front end. Created Full Stack Security Team's website.",
+        "technologies": "C++, HTML, CSS, Express.js, Node.js, OAuth2, SAML"
+      },
+      {
+        "company":"Venture Forge",
+        "title":"Summer Analyst",
+        "years":"Jun 2016 - Aug 2016",
+        "description":"Work with early stage start ups. Performed market sizing and financial modeling. Devised an influencer marketing strategy for a clear air start up using HootSuite and an analysis of Twitter keywords in the respective industry.",
+        "technologies": "Excel"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"C",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"R",
+        "level":"80%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"Spark",
+        "level":"80%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"React.js",
+        "level":"80%"
+      },
+      {
+        "name":"D3.js",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap4",
+        "level":"70%"
+      }
+    ],
+    "programmingSkills":[
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"C",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      }
+    ],
+    "dataAnalysisSkills":[
+      {
+        "name":"R (Tidyverse, ggplot2)",
+        "level":"80%"
+      },
+      {
+        "name":"Python (Pandas, NumPy, SciPy, Pyspark)",
+        "level":"90%"
+      },
+      {
+        "name":"Python (Matplotlib, Pygal, plotly)",
+        "level":"70%"
+      },
+      {
+        "name":"Python (Tensorflow, Pytorch, Keras, Xgboost)",
+        "level":"80%"
+      },
+      {
+        "name":"D3.JS",
+        "level":"70%"
+      }
+    ],
+    "dataManagementSkills":[
+      {
+        "name":"PostgreSQL",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      },
+      {
+        "name":"Spark/Hadoop",
+        "level":"80%"
+      }
+    ],
+    "webDevSkills":[
+      {
+        "name":"react.js",
+        "level":"80%"
+      },
+      {
+        "name":"bootstrap4",
+        "level":"70%"
+      },
+      {
+        "name":"flask",
+        "level":"90%"
+      },
+      {
+        "name":"django",
+        "level":"70%"
+      }
+    ]
+    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Michigan Data Challenge",
+        "category":"1st place analysis of General Motor's process data containing over 1.6 billion data points. Please see the full results on MIDAS homepage under 2019 data symposium.",
+        "image":"midas-logo.jpg",
+        "url":"https://drive.google.com/file/d/1zBnZ0o_p_5b-8pFCjgY_loGdmhAt1Ud8/view?usp=sharing"
+      },
+      {
+        "title":"Optmatch",
+        "category":"An R package maintained by the University of Michigan. Developing a new algorithm in C++ to replace older Fortran functionality to speed up computations.",
+        "image":"optmatch.png",
+        "url":"https://www.github.com/atewari7/rlemon"
+      },
+      {
+        "title":"Comparative Facial Recognition",
+        "category":"An analysis of deep learning algorithms for each component of the facial recognition pipeline from identification, rendering to classification.",
+        "image":"facial-rec.jpg",
+        "url":"https://drive.google.com/file/d/14KLrF48CmjZv0OU3BMC3jAOhnoQAekOi/view?usp=sharing"
+      },
+      {
+        "title":"Thread Library",
+        "category":"A custom thread library written in C++. Wrote all basic functionalities including mutex, sempaphores.",
+        "image":"threads.png",
+        "url":"https://drive.google.com/drive/folders/1UKLYdHrwT9G4qaNtjEXEZqOjhIsovMLD?usp=sharing"
+      },
+      {
+        "title":"Top Selling Video Games",
+        "category":"A fun project I did in my data mining class to determine features which can predict if a video game will be a best seller.",
+        "image":"videogames.png",
+        "url":"https://drive.google.com/file/d/1D3mkPY95pYKhiGNwycHSCpHOLmjfCjCE/view?usp=sharing"
+      }
+    ]
+  }
+}
