@@ -62,7 +62,7 @@
         "company":"Nike",
         "title":"Data Science Intern",
         "years":"Jun 2020 - Aug 2020",
-        "description":"Engineered process to visualize over 7 billion rows of click stream data for the Nike activity apps through a live dashboard utilizing d3.js. Process included writing an algorithm to convert list of user actions to a hierachical data structure. Responsible for all steps from data engineering to visualization. Created a process to estimate carbon footprint reduction and shipping cost savings of adding an additional fullfilment node in an arbitrary location. This project won 1st place at Nike Analytics Hackathon.",
+        "description":"Engineered process to visualize over 7 billion rows of click stream data for the Nike activity apps through a live dashboard utilizing d3.js. Process included writing an algorithm to convert list of user actions to a hierachical data structure. Responsible for all steps from data engineering to visualization. Created a process to estimate carbon footprint reduction and shipping cost savings with the addition of a new fullfilment node in an arbitrary location. This project won 1st place at the Nike Analytics Hackathon.",
         "technologies":"Spark, SQL, R, Python, D3.js, React.js"
       },
       {
