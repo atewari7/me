@@ -3,26 +3,26 @@
     "name":"Aditya Tewari",
     "description":"I am a data and computer scientist with experience in using a broad range of technologies as well as applying quantitative methods to develop innovative solutions",
     "image":"profilepic.png",
-    "bio":"I am an incoming senior at the University of Michigan's College Of Engineering with plans to pursue a Masters in Applied Statistics through an accelerated program. I enjoy building software, leveraging ML and DL technologies, and creating full stack web solutions, especially when it involves large scale computing. I have 2+ years of relevant work experience in software and data science engineering through both internships and working as a contractor for a start up. I have a broad range of interests and can apply my skillset to a variety of industries including tech, manufacturing, consumer science, finance, healthcare, and etc.",
+    "bio":"I am an incoming senior at the University of Michigan's College Of Engineering. I enjoy building software, leveraging ML and DL technologies, and creating full stack solutions, especially when it involves large scale computing. I have 2+ years of relevant work experience in software and data science engineering through both internships and working as a contractor for a start up. I have a broad range of interests and can apply my skillset to a variety of industries including tech, manufacturing, consumer science, finance, healthcare, and etc.",
     "bio2": "Outside of school, I love dancing, playing soccer, cooking, and playing the guitar. Click ",
     "bio3" : " to see my dance team's latest performance!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "adityate@umich.edu",
     "phone": "513-807-4955",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/atewari7/me",
+    "project":"https://github.com/atewari7/me",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/atewari7/me",
         "className":"fa fa-facebook"
       },
       {
@@ -32,17 +32,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/aditya-tewari/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/atewari7/me",
         "className":"fa fa-github"
       }
     ]
@@ -53,7 +53,7 @@
       {
         "school":"University of Michigan - College of Engineering",
         "degree":"B.E. Data Science, B.E. Computer Science",
-        "graduated":"Dec 2020",
+        "graduated":"May 2021",
         "description":"Relevant Coursework: Data Structures and Algorithms, Computer Organization, Operating Systems, Web Systems, Data Management Systems, Data Mining, Maching Learning, Computer Vision, Applied Linear Regression, Probablity and Statistics, Biostatistics, Differential Equations, Linear Algebra"
       }
     ],
@@ -61,8 +61,8 @@
       {
         "company":"Nike",
         "title":"Data Science Intern",
-        "years":"Jun 2020 - Present",
-        "description":"Working on the Digital Acitivtiy and Innovation Team. Visualizing clusters and applying quantiative methods to user journeys through the Nike Running Club and Nike Traning Club to determine features to revise. Responsible for all steps from data engineering to visualization.",
+        "years":"Jun 2020 - Aug 2020",
+        "description":"Engineered process to visualize over 7 billion rows of click stream data for the Nike activity apps through a live dashboard utilizing d3.js. Process included writing an algorithm to convert list of user actions to a hierachical data structure. Responsible for all steps from data engineering to visualization. Created a process to estimate carbon footprint reduction and shipping cost savings of adding an additional fullfilment node in an arbitrary location. This project won 1st place at Nike Analytics Hackathon.",
         "technologies":"Spark, SQL, R, Python, D3.js, React.js"
       },
       {
